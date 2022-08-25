@@ -1,0 +1,71 @@
+body{
+    background-color: #eee;
+}
+.reg-form{
+    background-color: white;
+    padding: 20px;
+    border: 1px solid whitesmoke;
+    margin: 30px 0 100px 300px;
+    box-shadow: 2px 2px 6px gray;
+}
+
+.name-label{
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.form-label{
+    font-weight: bold;
+}
+
+
+form input{
+    margin-bottom: 20px;
+    
+}
+#save_btn{
+    font-weight: bold;
+    color:white;
+    background-color: #38b7ff;
+    box-shadow: 2px 2px 6px gray;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+#user-table{
+    background-color: white;
+    border: 1px solid whitesmoke;
+    margin: 90px 0 20px 300px;
+    box-shadow: 2px 2px 6px gray;
+}
+
+
+#user-table h2{
+    padding: 20px;  
+}
+.search{
+    margin-right: 2rem;
+    width: 300px;
+}
+
+.user-table-name{
+    padding: 10px;
+    margin-left: 13px;
+    font-weight: bold;
+    background-color: #ffdc5c;
+}
+.user-table-email{
+    padding: 10px;
+    margin: 0px;
+    font-weight: bold;
+    background-color: #38b7ff;
+}
+.user-table-psw{
+    padding: 10px;
+    margin-left: -23px;
+    font-weight: bold;
+    background-color: #ff914d;
+}
+#showUsers{
+    padding: 20px;
+}
